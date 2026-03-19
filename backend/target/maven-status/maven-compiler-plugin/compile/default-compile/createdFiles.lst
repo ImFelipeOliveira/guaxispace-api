@@ -1,0 +1,8 @@
+com/guaxispace/guaxispace_api/config/WebConfig.class
+com/guaxispace/guaxispace_api/repository/WasteOfferRepository.class
+com/guaxispace/guaxispace_api/config/MongoConfig.class
+com/guaxispace/guaxispace_api/dto/WasteOfferRequest.class
+com/guaxispace/guaxispace_api/controller/WasteOfferController.class
+com/guaxispace/guaxispace_api/service/WasteOfferService.class
+com/guaxispace/guaxispace_api/model/WasteOffer.class
+com/guaxispace/guaxispace_api/GuaxispaceApiApplication.class

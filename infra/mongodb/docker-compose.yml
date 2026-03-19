@@ -1,0 +1,15 @@
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: organic_vibe_db
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=vibe_password
+      - MONGO_INITDB_DATABASE=guaxispace_db
+    volumes:
+      - mongodb_data:/data/db
+
+volumes:
+  mongodb_data:
