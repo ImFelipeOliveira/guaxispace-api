@@ -4,13 +4,16 @@ import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.beans.factory.annotation.Value;
 
 @Configuration
 public class MongoConfig {
 
+    @Value("${SPRING_DATA_MONGODB_URI}")
+    private String mongoUri;
+
     @Bean
     public MongoClient mongoClient() {
-        // Forçando a URI via código para ignorar qualquer lixo no application.properties
-        return MongoClients.create("mongodb://admin:vibe_password@127.0.0.1:27017/guaxispace_db?authSource=admin");
+        return MongoClients.create(this.mongoUri);
     }
 }

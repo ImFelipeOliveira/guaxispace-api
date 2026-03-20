@@ -1,4 +1,4 @@
-# Read Me First
+mcn# Read Me First
 The following was discovered as part of building this project:
 
 * The original package name 'com.guaxispace.guaxispace-api' is invalid and this project uses 'com.guaxispace.guaxispace_api' instead.

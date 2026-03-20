@@ -1,8 +1,8 @@
-/home/lemarcoss/guaxispace-api/backend/src/main/java/com/guaxispace/config/MongoConfig.java
-/home/lemarcoss/guaxispace-api/backend/src/main/java/com/guaxispace/config/WebConfig.java
-/home/lemarcoss/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/GuaxispaceApiApplication.java
-/home/lemarcoss/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/controller/WasteOfferController.java
-/home/lemarcoss/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/dto/WasteOfferRequest.java
-/home/lemarcoss/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/model/WasteOffer.java
-/home/lemarcoss/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/repository/WasteOfferRepository.java
-/home/lemarcoss/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/service/WasteOfferService.java
+/home/felipeoliveirasouza/Repositories/personal/guaxispace-api/backend/src/main/java/com/guaxispace/config/MongoConfig.java
+/home/felipeoliveirasouza/Repositories/personal/guaxispace-api/backend/src/main/java/com/guaxispace/config/WebConfig.java
+/home/felipeoliveirasouza/Repositories/personal/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/GuaxispaceApiApplication.java
+/home/felipeoliveirasouza/Repositories/personal/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/controller/WasteOfferController.java
+/home/felipeoliveirasouza/Repositories/personal/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/dto/WasteOfferRequest.java
+/home/felipeoliveirasouza/Repositories/personal/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/model/WasteOffer.java
+/home/felipeoliveirasouza/Repositories/personal/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/repository/WasteOfferRepository.java
+/home/felipeoliveirasouza/Repositories/personal/guaxispace-api/backend/src/main/java/com/guaxispace/guaxispace_api/service/WasteOfferService.java
